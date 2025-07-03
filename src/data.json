@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "image": "aigiri.jpg",
+    "name": "Aigiri Nandini",
+    "song": "songs/Hindi/aigirinandini.mp3",
+    "category": "Hindi",
+    "artist": "Hip Hop"
+  },
+  {
+    "id": 2,
+    "image": "ayyappa.jpg",
+    "name": "Bhoothanatha Sadanatha",
+    "song": "songs/Malayalam/bhoothanatha.mp3",
+    "category": "Malayalam",
+    "artist": "Devotional"
+  },
+  {
+    "id": 3,
+    "image": "bg1.jpg",
+    "name": "Kandu njan kannane",
+    "song": "songs/Malayalam/Kandunjankannane.mp3",
+    "category": "Malayalam",
+    "artist": "Devotional"
+  },
+  {
+    "id": 4,
+    "image": "bg2.jpeg",
+    "name": "Darmiyaan Jodi",
+    "song": "songs/Hindi/Darmiyaan Jodi.mp3",
+    "category": "Hindi",
+    "artist": "Party"
+  },
+  {
+    "id": 5,
+    "image": "bg3.avif",
+    "name": "Mukundha Mukundha-Devotional ",
+    "song": "songs/tamil/Mukundha_Mukundha.mp3",
+    "category": "Tamil",
+    "artist": "Himesh"
+  },
+  {
+     "id": 6,
+  "image": "dunki_omaahi.jpg",
+  "name": "O Maahi",
+  "song": "songs/Hindi/omahi.mp3",
+  "category": "Hindi",
+  "artist": "Arijit Singh"
+},
+ {
+  "id": 7,
+  "image": "adithya_varma_edharkadi.jpg",
+  "name": "Edharkadi",
+  "song": "songs/tamil/Edharkadi.mp3",
+  "category": "Tamil",
+  "artist": "Dhruv Vikram"
+},
+{
+  "id": 8,
+  "image": "har_har_shambhu.jpg",
+  "name": "Har Har Shambhu",
+  "song": "songs/Hindi/Har_Har_Shambhu.mp3",
+  "category": "Hindi",
+  "artist": "Abhilipsa Panda ft. Jeetu Sharma"
+},
+{
+  "id": 9,
+  "image": "heeriye.jpg",
+  "name": "Heeriye",
+  "song": "songs/Hindi/Heeriye.mp3",
+  "category": "Hindi",
+  "artist": "Jasleen Royal ft. Arijit Singh"
+},
+{
+  "id": 10,
+  "image": "chaleya_jawan.jpg",
+  "name": "Chaleya (Jawan)",
+  "song": "songs/Hindi/Chaleya_Jawan.mp3",
+  "category": "Hindi",
+  "artist": "Arijit Singh & Shilpa Rao"
+},
+{
+  "id": 11,
+  "image": "kaineettunnu.jpg",
+  "name": "Kaineettunnu",
+  "song": "songs/Malayalam/Kaineettunnu.mp3",
+  "category": "Malayalam",
+  "artist": "Unknown"
+},
+{
+  "id": 12,
+  "image": "leo_badass.jpg",
+  "name": "Badass",
+  "song": "songs/tamil/Badass_Leo.mp3",
+  "category": "Tamil",
+  "artist": "Thalapathy Vijay & Anirudh Ravichander"
+},
+{
+  "id": 13,
+  "image": "dildara_raone.jpg",
+  "name": "Dildara",
+  "song": "songs/Hindi/Dildara_RaOne.mp3",
+  "category": "Hindi",
+  "artist": "Shafqat Amanat Ali"
+},
+{
+  "id": 14,
+  "image": "maan_meri_jaan.jpg",
+  "name": "Maan Meri Jaan",
+  "song": "songs/Hindi/Maan_Meri_Jaan.mp3",
+  "category": "Hindi",
+  "artist": "King"
+},
+
+{
+  "id": 15,
+  "image": "dil_ka_kya.jpg",
+  "name": "Dil Ka Kya",
+  "song": "songs/Hindi/Dil_Ka_Kya_MetroInDino.mp3",
+  "category": "Hindi",
+  "artist": "Unknown"
+}
+
+]

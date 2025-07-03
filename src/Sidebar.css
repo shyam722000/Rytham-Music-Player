@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Libertinus+Mono&display=swap');
+
+
+/* styles.css */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* Hide scrollbar background */
+}
+
+.discover{
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+.custom-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+.clip-bottom-right {
+  clip-path: polygon(40% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+@media (max-width: 768px) {
+  .clip-bottom-right {
+    clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+}
+
